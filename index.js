@@ -1,6 +1,6 @@
 /**
  * Group Name Locker Bot (Fast + Instant Reset)
- * Developer: Aakib Undefeatable 🩷
+ * Developer: Axshu 🩷
  * Description: This bot locks the group name and resets it instantly if changed.
  */
 
