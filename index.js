@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1344285420696463";        // Group ka ID
-const LOCKED_GROUP_NAME = "PRINCE,AASHIQ,CREZY KI MAA KI CHUTT GAREEBO�";     // Locked name
+const LOCKED_GROUP_NAME = "SHIBRA RANDI KI MAA KI CHUTT BULA APNE GANDU BHAIYA ARSH KO 😒KO ARSH KI MAA KA BHOSDA";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
