@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1377099990684137";
-const LOCKED_GROUP_NAME = "VISHAL SHUKLA KI MAA KI CHUT ON FIRE 😂🥳"; 
+const LOCKED_GROUP_NAME = "😂😂seeta Ki Kali Gand राम_मंदिर_में_घुस_कर_तेरी_सीता_माता_को_चोदूंगा 😆😂🥳"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
