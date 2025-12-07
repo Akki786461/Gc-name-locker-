@@ -18,7 +18,7 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "61578494668835";
+const GROUP_THREAD_ID = "6715461311842827";
 const LOCKED_GROUP_NAME = "अर्जुन की अम्मी की चुत मे लंड डालके खून निकाल दू 😆😆 की अम्मी की चुत मे लंड अर्जुन की मां रैंडी लंद डालके खून निकाल दू 😆 😆"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
