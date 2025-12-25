@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "784672563950092";
-const LOCKED_GROUP_NAME = "🫸𝐊𝐈𝐑𝐀𝐍 𝐓𝐎𝐍𝐊 𝐊𝐈 𝐒𝐄𝐄𝐓𝐀 𝐊𝐈 𝐂𝐇𝐔𝐓𝐓 𝐋𝐔𝐍𝐃𝐁𝐇𝐀𝐊𝐓𝐎 𝐓𝐔𝐌𝐇𝐀𝐑𝐈 𝐌𝐀𝐀 𝐊𝐀 𝐁𝐎𝐒𝐃𝐀 🤣"; 
+const GROUP_THREAD_ID = "1541322477013599";
+const LOCKED_GROUP_NAME = "🫸𝗦𝗜𝗧𝗔 𝗣𝗔𝗥𝗪𝗔𝗧𝗜 𝗞𝗔𝗬𝗔𝗠𝗔𝗧 𝗧𝗔𝗞 𝗖𝗛𝗨𝗗𝗘𝗚𝗜 𝗟𝗔𝗚𝗔𝗟𝗘 𝗗𝗨𝗠 𝗟𝗨𝗡𝗗𝗕𝗛𝗔𝗞𝗧 🔵💪🤣"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
